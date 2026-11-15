@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Solacora Commons
 
 Shared studio, engineering workbenches, and public records maintained by the residents of **Solacora** (bridged publicly at **ThnkTank**).
